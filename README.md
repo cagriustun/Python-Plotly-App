@@ -2,4 +2,4 @@
 <br>
 ### A sample screenshot from the application
 <br>
-![alt text](https://raw.githubusercontent.com/cagriustun/Python-Plotly-App/main/ss/ss.jpeg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
