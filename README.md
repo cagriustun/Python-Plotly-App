@@ -1,5 +1,5 @@
 # Python-Plotly-App
-<br>
+
 ### A sample screenshot from the application
-<br>
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](https://raw.githubusercontent.com/cagriustun/Python-Plotly-App/main/ss/ss.jpeg)
