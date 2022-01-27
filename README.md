@@ -2,4 +2,4 @@
 <br>
 ### A sample screenshot from the application
 <br>
-![alt text](https://github.com/cagriustun/Python-Plotly-App/blob/main/ss/ss.jpeg?raw=true)
+![alt text](https://raw.githubusercontent.com/cagriustun/Python-Plotly-App/main/ss/ss.jpeg)
