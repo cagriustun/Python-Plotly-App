@@ -1,0 +1,65 @@
+.z_container {
+  width: 98%;
+  margin-left: 1%;
+  background: #f5f5f5;
+}
+.z_metric {
+  max-width: 200px;
+  background: #f5f5f5;
+}
+.z_h_50 {
+  height: 50px;
+}
+.z_w_90_y {
+  width: 90%;
+}
+.z_metric_title_color {
+  color: #0c2243;
+}
+.z_graph_title_color {
+  color: #484b63;
+}
+.z_right_header {
+  text-align: right;
+  background: #0c2243;
+  color: #fff;
+}
+.z_header_bg {
+  background-color: #0c2243;
+}
+.z_right_header_icon {
+  font-size: 30px;
+  cursor: pointer;
+}
+.z_ml_10 {
+  margin-left: 10px;
+}
+.z_mt_10{
+    margin-top: 10px;
+}
+.z_s_c_button {
+  background: #c82957;
+  opacity: 90%;
+  color: #fff;
+  border: none;
+  text-align: left;
+}
+.z_s_canvas {
+  background: #c82957;
+  opacity: 90%;
+  color: #fff;
+  width: 300px;
+}
+.z_graph_title_border{
+    position: relative;
+    border-bottom: 3px solid rgba(0,0,0,.125);
+}
+.z_graph_title_border::before{
+    content: "";
+    background: #BE1E46;
+    width: 20px;
+    height: 3px;
+    position: absolute;
+    bottom: -3px;
+    left:20px;
+  }
